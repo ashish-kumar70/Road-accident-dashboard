@@ -1,5 +1,5 @@
 # Road-accident-dashboard
-Project: Road Accident Analysis Dashboard
+Road Accident Analysis Dashboard
 
 This project utilizes Power BI to analyze and visualize road accident data in the United Kingdom. The interactive dashboard enables users to explore trends, patterns, and correlations within the data, providing insights that can inform road safety initiatives.
 
